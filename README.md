@@ -1,2 +1,3 @@
-# learn-android-studio
-学习android studio
+# 期末app文字策略游戏
+张宸嫣
+41911098
